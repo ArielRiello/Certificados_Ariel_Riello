@@ -108,7 +108,7 @@ Plataforma: DIO / Certificado: [DC23F65D](https://www.dio.me/certificate/DC23F65
 
 ---
 
-## Cursos
+# Cursos
 
 ### Introdução à Ciência da Computação com Python Parte 1
 
