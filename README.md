@@ -69,7 +69,7 @@ Certificado: [CAM8O7XB](https://www.dio.me/certificate/CAM8O7XB/share)
 
 ---
 
-### Python Data Analytics
+### Python Data Analytics Squadio
 
 <img src="00_img/data_analytics.png" width="300">
 
@@ -79,6 +79,19 @@ Plataforma: DIO / Distribudo por: Squadio /
 Certificado: [SGCQLN5X](https://www.dio.me/certificate/SGCQLN5X/share)
 
 <img src="00_img/data_analytics_certificado.png" width="300">
+
+---
+
+### NTT DATA - Engenharia de Dados com Python
+
+<img src="00_img\NTT_DATA_curso.png" width="300">
+
+[Repositorio](https://github.com/ArielRiello/Certificados_Ariel_Riello/tree/main/NTT_DATA_Eng_de_Dados_Python) / Carga horaria: 91 Horas / Conclusão: 03 Setembro 2024
+
+Plataforma: DIO / Distribudo por: NTT DATA / 
+Certificado: [PWSATVYL](https://hermes.dio.me/certificates/PWSATVYL.pdf)
+
+<img src="00_img\NTT_DATA.png" width="300">
 
 ---
 
