@@ -160,3 +160,17 @@ Plataforma: DIO / Certificado: [AC2DBFF4](https://www.dio.me/certificate/AC2DBFF
 <img src="00_img/codecamp_2_certificado.png" width="300">
 
 ---
+
+### Introdução ao Hacking e Pentest 2.0
+
+<img src="00_img\solyd_int_hacking_pentest.webp" width="300">
+
+[Repositorio](https://github.com/ArielRiello/Certificados_Ariel_Riello/tree/main/Introducao_Hacking_Pentest_Solyd)
+
+Plataforma: [Solyd](https://solyd.com.br/)
+
+<img src="00_img\Ariel_Certifiicado_Solyd.jpg" width="300">
+
+Autenticidade: [solyd.com.br/verificar/lx4f0IuzfS](solyd.com.br/verificar/lx4f0IuzfS)
+
+---
