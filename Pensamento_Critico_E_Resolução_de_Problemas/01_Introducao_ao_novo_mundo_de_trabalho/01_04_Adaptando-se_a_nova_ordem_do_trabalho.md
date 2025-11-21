@@ -1,4 +1,4 @@
-# 1.4. Adaptando-se à nova ordem do trabalho 
+## 1.4. Adaptando-se à nova ordem do trabalho 
 
 *“Não podemos resolver nossos problemas com o mesmo nível de pensamento que os criou.”* 
 

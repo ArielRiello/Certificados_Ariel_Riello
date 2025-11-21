@@ -1,6 +1,6 @@
-# 1.3. Navegando pela nova ordem do trabalho: VUCA vs BANI 
+## 1.3. Navegando pela nova ordem do trabalho: VUCA vs BANI 
 
-## ⇐ VUCA vs BANI ⇒
+### ⇐ VUCA vs BANI ⇒
 
 No cenário em constante mudança do local de trabalho moderno, dois conceitos contrastantes, VUCA e BANI, surgiram como princípios orientadores para entender e se adaptar à natureza volátil, incerta, complexa e ambígua do ambiente de negócios atual. Embora o VUCA tenha sido o modelo predominante, o BANI oferece uma nova perspectiva que reflete os desafios e oportunidades únicos da nova era do trabalho. 
 
@@ -19,6 +19,8 @@ No cenário em constante mudança do local de trabalho moderno, dois conceitos c
 **Team of Teams: New Rules of Engagement for a Complex World**(Stanley McChrystal, Tantum Collins, David Silverman, Chris Fussell, 2015) é um livro em que o general McChrystal conta como a força-tarefa de operações especiais dos EUA teve que mudar sua forma de liderar na Guerra do Iraque — saindo de um modelo hierárquico, burocrático e eficiente, para algo **adaptável, em rede e rápido**. 
 
 Ele argumenta que o mundo atual é complexo (não apenas complicado): as coisas mudam rápido, são imprevisíveis e interconectadas. Nesse contexto, modelos “linha de montagem” (mando-controle, comando central decide tudo) não funcionam mais.
+
+---
 
 ### Ideias centrais
 
@@ -102,3 +104,5 @@ Origem do BANI: Este conceito foi criado por Jamais Cascio, um antropólogo, fut
 
 - Incompreensível
     - A pura complexidade e imprevisibilidade do ambiente de negócios tornam difícil para as organizações entenderem e navegarem de forma eficaz. 
+
+---

@@ -1,4 +1,4 @@
-# 1. 2. O novo mundo do trabalho: navegando pelo futuro 
+## 1. 2. O novo mundo do trabalho: navegando pelo futuro 
 
 O mundo do trabalho está passando por uma transformação profunda e rápida, impulsionada por avanços tecnológicos, globalização e mudanças nas expectativas sociais. Esta evolução, muitas vezes referida como o "novo mundo do trabalho", está remodelando como as empresas operam, como os empregados trabalham e as habilidades e estratégias necessárias para ter sucesso neste cenário em rápida mudança. 
 
@@ -16,12 +16,15 @@ Globalização, transformação digital e mudanças nas atitudes em relação ao
 
 Adaptabilidade, inovação e foco na colaboração & criatividade. 
 
+---
 
-## Novo mundo do trabalho 
+### Novo mundo do trabalho 
 
-### Tecnologia e automação 
+#### Tecnologia e automação 
 
-A tecnologia, particularmente a automação e a inteligência artificial (IA), está revolucionando indústrias em todo o mundo. Os empregados devem se adaptar a trabalhar ao lado de máquinas e sistemas de IA, exigindo requalificação e aprimoramento de habilidades. Habilidades humanas como criatividade, pensamento crítico, inteligência emocional e resolução de problemas estão se tornando ainda mais valiosas. 
+A tecnologia, particularmente a automação e a inteligência artificial (IA), está revolucionando indústrias em todo o mundo. Os empregados devem se adaptar a trabalhar ao lado de máquinas e sistemas de IA, exigindo requalificação e aprimoramento de habilidades. Habilidades humanas como criatividade, pensamento crítico, inteligência emocional e resolução de problemas estão se tornando ainda mais valiosas.
+
+---
 
 ### Transformação digital, seu impacto nos modelos de negócios e operações 
 
@@ -31,6 +34,8 @@ As empresas estão cada vez mais transferindo suas operações para o ambiente o
 
 A **tomada de decisão baseada em dados** está se tornando cada vez mais importante para as empresas obterem percepções e vantagens sobre o comportamento do cliente e as tendências do mercado. 
 
+---
+
 ### Trabalho remoto e nomadismo digital 
 
 A pandemia de COVID-19 acelerou a transição para o trabalho remoto, que se tornou mais comum do que nunca. O trabalho em casa ganhou destaque. 
@@ -39,9 +44,13 @@ A pandemia de COVID-19 acelerou a transição para o trabalho remoto, que se tor
 
 **Nômades digitais**. É um estilo de vida que permite que indivíduos trabalhem remotamente enquanto viajam. Essa tendência está remodelando as noções tradicionais de trabalho, à medida que os indivíduos buscam maior liberdade e flexibilidade em suas carreiras. 
 
+---
+
 ### Gig Economy e arranjos de trabalho flexíveis 
 
 A Gig Economy (modelo de negócios não exclusivos) está prosperando com plataformas como Uber, Airbnb e Upwork oferecendo oportunidades para trabalho freelance. Isso levanta preocupações sobre segurança no emprego e benefícios para os trabalhadores gig. Arranjos de trabalho flexíveis, como posições de meio período e temporárias, estão em ascensão. 
+
+---
 
 ### Sustentabilidade e iniciativas de responsabilidade social corporativa (RSC) 
 
@@ -53,11 +62,15 @@ A Gig Economy (modelo de negócios não exclusivos) está prosperando com plataf
 
 **Esteja bem fazendo o bem**: Consumidores e investidores estão exigindo que as empresas ajam de forma ética e responsável, levando ao aumento das iniciativas de RSC. Com essas iniciativas, as empresas buscam maneiras de criar benefícios sociais e ambientais enquanto buscam aumento na receita e maximizam o valor para os acionistas. Empresas socialmente responsáveis estão preocupadas com o resultado triplo, que considera o impacto que as decisões de negócios têm sobre **lucro, pessoas e o planeta**.
 
+---
+
 ### Modelos de negócios motivados pelo propósito 
 
 Objetivos sociais e ambientais estão entrando nas estratégias centrais. A priorização do propósito e das necessidades do consumidor sobre as margens de lucro tem um impacto positivo na sociedade. 
 
 Os **desafios para essas empresas** incluem a falta de um entendimento claro do propósito, a incapacidade de integrar o propósito à organização de forma abrangente e a dificuldade de medir o impacto das iniciativas de propósito nos negócios.
+
+---
 
 ### Diversidade, Equidade e Inclusão (DEI) 
 
@@ -69,11 +82,15 @@ Há uma ênfase crescente na diversidade, equidade e inclusão (DEI). Os emprega
 
 **Inclusão**: como a força de trabalho experimenta o local de trabalho e o grau em que todos os empregados são contemplados e capacitados para fazer contribuições significativas.  
 
+---
+
 ### Habilidades para o futuro 
 
 Hoje há uma maior ênfase em um conjunto diversificado de habilidades e competências na força de trabalho. Além do conhecimento técnico, candidatos com fortes habilidades sociais e emocionais, como empatia, respeito pelos outros, comunicação, colaboração, adaptabilidade e resiliência, são altamente procurados à medida que salas de aula e locais de trabalho se tornam mais diversos.  
 
 Além disso, habilidades de pensamento crítico e resolução de problemas estão cada vez mais em demanda. Os empregadores valorizam pessoas que possam analisar problemas complexos, pensar criativamente e desenvolver soluções inovadoras. 
+
+---
 
 ## As 10 principais habilidades em alta para 2030 
 

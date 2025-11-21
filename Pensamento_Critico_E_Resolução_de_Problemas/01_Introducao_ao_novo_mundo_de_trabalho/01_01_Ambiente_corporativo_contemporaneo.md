@@ -1,8 +1,10 @@
-# 1. Introdução ao novo mundo do trabalho (I)
+### 1. Introdução ao novo mundo do trabalho (I)
 
 O termo "novo trabalho" refere-se às mudanças no mundo do trabalho decorrentes da globalização e da digitalização. Este desenvolvimento está se distanciando do modelo tradicional de funcionário, que exerce sua atividade profissional seguindo rigorosamente as especificações do empregador, e se aproximando de abordagens alternativas e mais flexíveis, que dão aos funcionários maiores opções de tomada de decisão, mais flexibilidade e melhores oportunidades de desenvolvimento pessoal. Palavras-chave relacionadas ao novo trabalho incluem escritórios de mesa aberta, equipes ágeis, coworking e uma cultura de confiança. 
 
-## 1. 1. Ambiente corporativo contemporâneo
+---
+
+### 1. 1. Ambiente corporativo contemporâneo
 
 O mundo corporativo abrange todas as empresas e organizações que operam no setor privado com o objetivo principal de gerar lucros. Inclui corporações, parcerias e empresas individuais. Além disso, há também um forte surgimento de organizações sociais. Para navegar nesse cenário, é necessário ter uma abordagem muito estratégica. 
 
